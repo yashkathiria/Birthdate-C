@@ -1,1 +1,1 @@
-# Birthdate-C
+# Birthdate Reminder using C
